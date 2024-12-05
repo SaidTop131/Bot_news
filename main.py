@@ -8,7 +8,7 @@ dp = Dispatcher()
 
 dp.include_router(router)
 
-# Запуск цикла 
+# Запуск бота 
 
 
 if __name__ == '__main__':
